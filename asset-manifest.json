@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/google-map/static/js/main.b8eec66a.js",
+    "index.html": "/google-map/index.html",
+    "main.b8eec66a.js.map": "/google-map/static/js/main.b8eec66a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b8eec66a.js"
+  ]
+}
